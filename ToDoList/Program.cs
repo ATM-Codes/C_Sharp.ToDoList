@@ -2,6 +2,8 @@
 
 using static System.Net.Mime.MediaTypeNames;
 
+//NOTE: The base code was from "The Coders Cat" youtube channel and blog. I have added some changes to make it work better. 
+
 Console.WriteLine("Welcome to the To Do List Program!");
 
 //Creating list to store tasks
